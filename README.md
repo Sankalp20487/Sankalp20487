@@ -7,8 +7,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔍 Passionate about solving real-world problems using data  
-- 🧠 Currently working on: Optimizing logistics for a brewing company 🍺  
+- 🔍 Passionate about solving real-world problems using data   
 - 🛠️ Building ML + analytics apps with Python, SQL, Spark, Docker & FastAPI  
 - 🎵 Fun fact: I’ve been a guitarist for 9+ years!
 
@@ -16,12 +15,12 @@
 
 ### 💼 Featured Projects
 
-- 🔍 [Auto Insurance Fraud Detection (XGBoost + AWS SageMaker)](https://github.com/Sankalp20487/auto-insurance-fraud-detection)
+- 🎯 [Student Math Score Predictor (End-to-End ML Deployment)](https://github.com/Sankalp20487/mlproject)
 - 🧪 [A/B Testing Analysis – Marketing Campaign Effectiveness](https://github.com/Sankalp20487/ab-testing)
 - 🧬 [COVID-19 mRNA Vaccine Degradation Prediction (Bi-GRU)](https://github.com/Sankalp20487/Covid-19-mRNA-Prediction-Bi-GRU)
 - 🛣️ [Chicago Traffic Crash Analysis (Databricks + Spark SQL)](https://github.com/Sankalp20487/Chicago-Traffic-Crash-Analysis)
 - 📚 [University Explorer AI Chatbot (LLM Text-to-SQL)](https://github.com/Sankalp20487/ipedsllm)
-- 🎯 [Student Math Score Predictor (End-to-End ML Deployment)](https://github.com/Sankalp20487/mlproject)
+- 🔍 [Auto Insurance Fraud Detection (XGBoost + AWS SageMaker)](https://github.com/Sankalp20487/auto-insurance-fraud-detection)
 - 📊 [Airbnb Tableau Dashboard](https://public.tableau.com/views/Airbnb_Dashboard_17114057268580/Dashboard1)
 
 ---
@@ -35,6 +34,7 @@
 ![Azure](https://img.shields.io/badge/-Azure-0089D6?logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-CI%2FCD%20with%20GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 
 ---
