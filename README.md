@@ -15,7 +15,7 @@
 
 ### 💼 Featured Projects
 
-- 🏥 [Agentic-Healthcare-Chatbot](https://github.com/AI-Healthcare-Chatbot/Agentic_Healthcare_Chatbot)
+- 🏥 [Agentic-Healthcare-Chatbot](https://github.com/AI-Healthcare-Chatbot/Agentic_Healthcare_Chatbot) (Latest Project)
 - 🎯 [Student Math Score Predictor (End-to-End ML Deployment)](https://github.com/Sankalp20487/mlproject)
 - 🧪 [A/B Testing Analysis – Marketing Campaign Effectiveness](https://github.com/Sankalp20487/ab-testing)
 - 🧬 [COVID-19 mRNA Vaccine Degradation Prediction (Bi-GRU)](https://github.com/Sankalp20487/Covid-19-mRNA-Prediction-Bi-GRU)
