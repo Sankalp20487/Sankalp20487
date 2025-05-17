@@ -18,7 +18,7 @@
 - 🏥 [Agentic-Healthcare-Chatbot](https://github.com/AI-Healthcare-Chatbot/Agentic_Healthcare_Chatbot) (Latest Project)
 - 🎯 [Student Math Score Predictor (End-to-End ML Deployment)](https://github.com/Sankalp20487/mlproject)
 - 🧪 [A/B Testing Analysis – Marketing Campaign Effectiveness](https://github.com/Sankalp20487/A-B_Testing_Marketing_campaign)
-- 🚛 [Smart Truck Recommender Webapp]([https://github.com/Sankalp20487/A-B_Testing_Marketing_campaign](https://github.com/Sankalp20487/Truck-Recommender)
+- 🚛 [Smart Truck Recommender Webapp](https://github.com/Sankalp20487/Truck-Recommender)
 - 🧬 [COVID-19 mRNA Vaccine Degradation Prediction (Bi-GRU)](https://github.com/Sankalp20487/Covid-19-mRNA-Prediction-Bi-GRU)
 - 🛣️ [Chicago Traffic Crash Analysis (Databricks + Spark SQL)](https://github.com/Sankalp20487/Chicago-Traffic-Crash-Analysis)
 - 📚 [University Explorer AI Chatbot (LLM Text-to-SQL)](https://github.com/Sankalp20487/ipedsllm)
