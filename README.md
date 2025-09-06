@@ -15,7 +15,8 @@
 
 ### 💼 Featured Projects
 
-- 🏥 [Agentic-Healthcare-Chatbot](https://github.com/AI-Healthcare-Chatbot/Agentic_Healthcare_Chatbot) (Latest Project)
+- 🏥 [Agentic-Healthcare-Chatbot](https://github.com/AI-Healthcare-Chatbot/Agentic_Healthcare_Chatbot)
+- 📉 [Customer Churn Prediction (End-to-End MLOps Pipeline)](https://github.com/Sankalp20487/Customer_Churn_MLops)
 - 🎯 [Student Math Score Predictor (End-to-End ML Deployment)](https://github.com/Sankalp20487/mlproject)
 - 🧪 [A/B Testing Analysis – Marketing Campaign Effectiveness](https://github.com/Sankalp20487/A-B_Testing_Marketing_campaign)
 - 🚛 [Smart Truck Recommender Webapp](https://github.com/Sankalp20487/Truck-Recommender)
