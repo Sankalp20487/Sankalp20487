@@ -1,6 +1,6 @@
 # Hi there, I'm Sankalp Biswal 👋
 
-🎓 MS in Analytics @ Northeastern University  
+🎓 MSc in Data Analytics @ Northeastern University  
 📍 Based in Boston | 🎸 Musician | 📊 Data Professional
 
 ---
