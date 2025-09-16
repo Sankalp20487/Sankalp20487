@@ -2,7 +2,7 @@
 
 🎓 MSc in Data Analytics @ Northeastern University  
 📍 Based in Boston | 🎸 Musician | 📊 Data Professional
-
+[Portfolio](https://sankalp20487.github.io/SankalpBiswal.github.io/)
 ---
 
 ### 👨‍💻 About Me
